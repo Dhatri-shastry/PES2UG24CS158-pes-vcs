@@ -1,7 +1,21 @@
 # PES-VCS Lab Submission
 
-**Name:** Dhatri
+**Name:** DHATRI  
 **SRN:** PES2UG24CS158
+
+---
+
+## Additional Files
+
+### .env
+This file contains the `PES_AUTHOR` environment variable required by the assignment:
+```
+PES_AUTHOR="DHATRI <PES2UG24CS158>"
+```
+
+**Purpose:** The README specifies that PES-VCS reads the author name from the `PES_AUTHOR` environment variable. This file provides a convenient way to set this variable before running commands.
+
+**Usage:** Run `source .env` before executing any `pes` commands to ensure commits are attributed correctly.
 
 ---
 
@@ -283,7 +297,7 @@ Each commit message clearly describes the changes made and follows best practice
 
 ## Repository Link
 
-GitHub Repository: [Your Repository URL Here]
+GitHub Repository: [https://github.com/Dhatri-shastry/PES2UG24CS158-pes-vcs]
 
 ---
 
@@ -291,5 +305,5 @@ GitHub Repository: [Your Repository URL Here]
 
 I declare that this submission is my own work and I have properly attributed any external resources used.
 
-**Signature:** Arun Hariharan  
+**Signature:** dhatri  
 **Date:** [Date of Submission]
